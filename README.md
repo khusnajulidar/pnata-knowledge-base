@@ -14,6 +14,8 @@ Pusat pengetahuan lintas proyek P'Nata: identitas merek, keputusan aktif, riwaya
 6. [AI Working Rules](05_AI_WORKING_RULES.md)
 7. [GitHub Source Inventory](06_GITHUB_SOURCE_INVENTORY.md)
 8. [Open Questions](07_OPEN_QUESTIONS.md)
+9. [Claude Project Setup](08_CLAUDE_PROJECT_SETUP.md)
+10. [Git History & Branches](09_GIT_HISTORY_AND_BRANCHES.md)
 
 ## Status
 - ACTIVE / DISETUJUI: keputusan berlaku.
