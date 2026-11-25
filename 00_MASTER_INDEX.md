@@ -34,6 +34,11 @@ Konsep approved tidak otomatis berarti aset final atau produk selesai. File ada 
 - [AI Rules](05_AI_WORKING_RULES.md)
 - [GitHub Inventory](06_GITHUB_SOURCE_INVENTORY.md)
 - [Open Questions](07_OPEN_QUESTIONS.md)
+- [Claude Project Setup](08_CLAUDE_PROJECT_SETUP.md)
+- [Git History & Branches](09_GIT_HISTORY_AND_BRANCHES.md)
+- [Session Checkpoint — Cinta Rasul](10_SESSION_CHECKPOINT.md)
+- [Session Checkpoint — Audit Hijaiyah, Salat, Aset](11_SESSION_CHECKPOINT_AUDIT.md)
+- [Pola Kerja Dua Akun Claude](12_POLA_KERJA_DUA_AKUN.md)
 
 ## Batas cakupan
 Belum mencakup empat ekspor ChatGPT, seluruh komentar/percakapan di luar GitHub, pemeriksaan visual seluruh aset, QA browser/perangkat, dan seluruh riwayat non-default branches.
