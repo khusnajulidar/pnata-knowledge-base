@@ -16,12 +16,55 @@
 - Jangan mengambil rujukan dari situs di luar daftar yang diizinkan di bawah. Bila ragu, tandai dan tanyakan pengguna.
 - Aturan gambar makhluk bernyawa mengikuti `03_DECISION_LOG.md` dan `12_POLA_KERJA_DUA_AKUN.md` (satu standar untuk semua produk).
 
-## Daftar situs/sumber yang diizinkan (DIISI PENGGUNA)
-Belum ditetapkan. AI tidak menambah entri sendiri.
+## Daftar situs/sumber yang diizinkan
 
-| No | Nama sumber / situs | Alamat | Jenis (Qur'an, hadis, fikih, tanya-jawab, dll.) | Catatan |
+Daftar berikut telah disetujui pengguna pada 26 November 2026. Persetujuan situs tidak berarti semua isi atau setiap terjemahan di dalamnya otomatis menjadi dalil final; setiap materi tetap harus ditelusuri ke sumber primer dan diperiksa sesuai alur verifikasi.
+
+| No | Nama sumber / situs | Alamat | Jenis | Catatan |
 |---|---|---|---|---|
-| 1 | (isi pengguna) | | | |
+| 1 | Al-Ifta Saudi (Presidency of Scholarly Research and Ifta) | https://www.alifta.gov.sa/ | Fatwa, fikih, akidah, tanya-jawab ulama | Sumber fatwa/lembaga; perhatikan atribusi fatwa dan konteks pertanyaan. |
+| 2 | Ad-Durar as-Saniyyah | https://dorar.net/ | Hadis, takhrij, penilaian riwayat, akidah, fikih | Alat rujukan dan penelusuran; catat ulama/kitab yang menjadi dasar penilaian. |
+| 3 | King Fahd Glorious Qur’an Printing Complex | https://qurancomplex.gov.sa/ | Mushaf, teks Al-Qur’an, terbitan dan terjemahan yang diterbitkan kompleks | Utamakan teks mushaf resmi; terjemahan tetap dicatat edisi/penerbitnya. |
+| 4 | Sunnah.com | https://sunnah.com/ | Pencarian teks hadis, kitab, bab, dan nomor hadis | Disetujui sebagai alat bantu pencarian/identifikasi. Bukan satu-satunya otoritas untuk menilai derajat hadis atau menetapkan hukum. |
+
+## Situs web masyaikh dan lembaga ilmiah yang ditemukan dalam materi P’Nata
+
+Bagian ini mencatat situs yang memang muncul sebagai rujukan atau profil pada dokumen proyek. Statusnya dibedakan agar AI tidak menganggap setiap tautan yang pernah dicantumkan otomatis telah disetujui sebagai sumber agama.
+
+| Nama | Alamat | Kegunaan yang tercatat | Status |
+|---|---|---|---|
+| Yayasan/kumpulan karya Syaikh Muhammad bin Shalih al-'Utsaimin | https://www.uthaymeen.com/ | Biografi dan karya Syaikh al-'Utsaimin; muncul pada bank bonus Jejak Para Ulama | Ditemukan dalam materi; perlu persetujuan eksplisit sebagai sumber yang diizinkan |
+| Situs Syaikh Shalih al-Fauzan | https://alfawzaan.com/about | Profil/karya Syaikh al-Fauzan; muncul pada bank bonus Jejak Para Ulama | Ditemukan dalam materi; perlu pemeriksaan alamat/domain dan persetujuan eksplisit |
+| Situs Syaikh Abdul Muhsin al-'Abbad | https://al-abbaad.com/profile | Profil dan aktivitas pengajaran; muncul pada bank bonus Jejak Para Ulama | Ditemukan dalam materi; perlu persetujuan eksplisit sebagai sumber yang diizinkan |
+| Situs Syaikh Abdul Aziz bin Baz | https://binbaz.org.sa/ | Fatwa, kitab, pelajaran, dan rekaman | Kandidat situs masyaikh; belum disahkan dalam daftar izin |
+| Situs Syaikh Rabi' bin Hadi al-Madkhali | https://www.rabee.net/ | Karya dan penjelasan Syaikh Rabi' | Kandidat situs masyaikh; belum disahkan dalam daftar izin |
+| Situs karya Syaikh Muhammad Nashiruddin al-Albani | https://www.alalbany.net/ | Karya, penelitian hadis, dan fatwa yang dinisbatkan kepada Syaikh al-Albani | Kandidat situs masyaikh; belum disahkan dalam daftar izin |
+| Situs Syaikh Abdurrazzaq al-Badr | https://al-badr.net/ | Kajian, kitab, dan pelajaran | Kandidat situs masyaikh; belum disahkan dalam daftar izin |
+
+## Inventaris sumber yang telah digunakan dalam bank soal Petualangan Cinta Rasul
+
+Folder materi yang diperiksa: https://github.com/khusnajulidar/pnata-digital-projects/tree/main/petualangan-cinta-rasul/materi
+
+Dokumen yang ditemukan mencakup bank TTS, Berburu Kata, Matching Wilayah 1–3, audit gabungan 126 butir, master index/audit register, serta bank bonus Jejak Para Ulama. Inventaris ini adalah catatan asal-usul rujukan yang sudah tercantum di dokumen proyek, bukan pengesahan otomatis terhadap semua sumber.
+
+| Sumber yang muncul dalam materi | Jenis penggunaan | Perlakuan dalam verifikasi |
+|---|---|---|
+| Sunnah.com | Tautan teks hadis Sahih al-Bukhari, Sahih Muslim, Sunan Abi Dawud, Jami' at-Tirmidhi, Sunan Ibn Majah, dan Sunan an-Nasa'i | Boleh dipakai sebagai alat bantu pencarian sesuai persetujuan di atas; cocokkan teks, bab, nomor, dan penilaian dengan kitab/ulama yang dirujuk. |
+| Quran.com | Tautan ayat Al-Qur'an pada bank TTS dan materi lain | Tercatat sebagai sumber historis yang digunakan; bukan bagian dari daftar sumber yang disetujui. Untuk teks mushaf, utamakan King Fahd Complex; terjemahan/tafsir perlu dicatat penerbit dan penulisnya. |
+| Ibn Hisham, *as-Sirah an-Nabawiyyah* | Sirah, hijrah ke Habasyah, pembangunan Ka'bah, dan identifikasi tokoh | Sumber kitab primer/klasik yang harus dicatat edisi, jilid, halaman atau bab; bedakan dari hadis sahih. |
+| Muhammad Mohar Ali, *Sīrat al-Nabī and the Orientalists* | Rujukan sirah/biografi untuk keluarga dan masa awal kehidupan Nabi ﷺ | Catat edisi dan bagian yang digunakan; telaah kesesuaian isi dengan prinsip sumber P’Nata sebelum dipakai kembali. |
+| Ibn Hajar, *al-Isabah fi Tamyiz ash-Shahabah* | Identifikasi dan biografi shahabat, termasuk Zaynab bint Jahsh | Rujukan biografi; catat entri dan edisi. |
+| Al-Tabari, *Tarikh al-Rusul wa al-Muluk* | Rujukan identifikasi/biografi Ruqayyah pada catatan audit | Sumber tarikh; periksa sanad/keterangan riwayat dan jangan menyamakan semua isi tarikh dengan hadis sahih. |
+| King Faisal Prize | Biografi Syaikh al-Albani dan Syaikh Ibn Baz pada bank bonus | Sumber biografi institusional, bukan sumber fatwa atau dalil syar'i. |
+| Muslim.or.id | Biografi Syaikh Abdurrahman as-Sa'di pada bank bonus | Sumber sekunder yang tercantum; perlu pemeriksaan isi dan rujukan asal sebelum digunakan. |
+| Islam Museum | Informasi karya *Taysir al-Karim ar-Rahman* pada bank bonus | Sumber sekunder; perlu verifikasi silang dengan kitab/biografi yang lebih langsung. |
+| IslamicArchives dan Emaan Library | Biografi/autobiografi Syaikh Muqbil pada bank bonus | Repositori/arsip sekunder; telusuri asal dokumen dan edisi sebelum digunakan. |
+| IIFA (International Islamic Fiqh Academy) | Informasi jabatan/riwayat Syaikh Bakr Abu Zayd pada bank bonus | Sumber institusional untuk informasi organisasi; bukan sumber dalil hadis/akidah. |
+| Habesha History | Salinan/penyajian teks terkait hijrah pertama ke Habasyah yang dipakai bersama rujukan Ibn Hisham | Sumber bantu sekunder; utamakan kitab sirah dan edisi yang disebutkan. |
+| Abdurrahman.org (PDF Majmu' Fatawa al-Lajnah ad-Da'imah) | Rujukan fatwa tentang status Mariah al-Qibthiyyah dalam bank TTS | Tautan berkas sekunder/repost; verifikasi nomor fatwa dan teks pada terbitan resmi Al-Lajnah/Al-Ifta. |
+
+**Penting:** daftar sumber historis di atas tidak memperluas daftar situs yang diizinkan. AI tidak boleh mengambil materi baru dari sumber yang berstatus “historis”, “kandidat”, atau “perlu pemeriksaan” seolah-olah sudah disetujui. Bila sumber primer/kitab disebut tetapi tautan atau edisinya belum lengkap, tandai NEEDS VERIFICATION dan jangan menebak nomor halaman.
+
 
 ## Label status verifikasi
 - NEEDS VERIFICATION: ada klaim/rujukan, belum dicocokkan dengan sumber.
