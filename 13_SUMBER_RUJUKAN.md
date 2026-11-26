@@ -72,13 +72,14 @@ Dokumen yang ditemukan mencakup bank TTS, Berburu Kata, Matching Wilayah 1–3, 
 - CHECKED BY USER: dicocokkan pengguna dengan sumber.
 - VERIFIED BY SCHOLAR: diperiksa orang berilmu (catat nama dan tanggal).
 - REJECTED: tidak dipakai (catat alasan).
+- CLOSED / OUT OF SCOPE: proyek telah ditutup oleh pengguna; jangan membuka kembali audit/revisi. Catatan status ini bukan penilaian keabsahan materi.
 
 ## Register verifikasi
 Status di bawah adalah status dokumenter pada tanggal dibuat, bukan hasil pemeriksaan sumber.
 
 | Produk | Halaman/Item | Isi singkat | Rujukan di materi | Status | Pemeriksa/tanggal | Catatan |
 |---|---|---|---|---|---|---|
-| Belajar Wudhu sesuai Sunnah | Hal. 9 | Dzikir setelah wudhu (syahadatain), teks Arab, transliterasi, arti | HR. Muslim no. 234b (tertulis di halaman) | NEEDS VERIFICATION | - | Akan diberi ikon audio; audio belum disiapkan |
+| Belajar Wudhu sesuai Sunnah | Activity Book final | Proyek selesai; master file disimpan pengguna secara lokal dan tidak perlu disimpan/revisi di GitHub | HR. Muslim no. 234b (tercantum pada master) | CLOSED / OUT OF SCOPE | - | Jangan melakukan revisi, audit ulang, desain ulang, atau membuat versi baru. Pertahankan halaman audio dzikir setelah wudhu, aset, player, URL, dan dependensinya tanpa perubahan karena PDF final menautkannya. |
 | Yuk, Belajar Salat! | H3 | Syarat/persiapan salat | QS Al-Ma'idah 5:6; QS An-Nisa 4:103; Sahih Muslim 224a (menurut `PROJECT_GUIDE.md`) | NEEDS VERIFICATION | - | Panduan proyek sendiri meminta verifikasi sebelum publikasi |
 | Yuk, Belajar Salat! | H4 | Tujuh tahap satu rakaat | Sahih al-Bukhari 631; Sahih Muslim 471a; Sahih Muslim 497b (menurut `PROJECT_GUIDE.md`) | NEEDS VERIFICATION | - | Sama seperti di atas |
 | Yuk, Belajar Salat! | H5-H10 | Belum final | - | UNKNOWN | - | Susun setelah riset dan persetujuan |
