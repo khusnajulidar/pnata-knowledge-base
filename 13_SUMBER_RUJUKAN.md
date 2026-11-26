@@ -27,19 +27,19 @@ Daftar berikut telah disetujui pengguna pada 26 November 2026. Persetujuan situs
 | 3 | King Fahd Glorious Qur’an Printing Complex | https://qurancomplex.gov.sa/ | Mushaf, teks Al-Qur’an, terbitan dan terjemahan yang diterbitkan kompleks | Utamakan teks mushaf resmi; terjemahan tetap dicatat edisi/penerbitnya. |
 | 4 | Sunnah.com | https://sunnah.com/ | Pencarian teks hadis, kitab, bab, dan nomor hadis | Disetujui sebagai alat bantu pencarian/identifikasi. Bukan satu-satunya otoritas untuk menilai derajat hadis atau menetapkan hukum. |
 
-## Situs web masyaikh dan lembaga ilmiah yang ditemukan dalam materi P’Nata
+## Situs web masyaikh dan lembaga ilmiah
 
-Bagian ini mencatat situs yang memang muncul sebagai rujukan atau profil pada dokumen proyek. Statusnya dibedakan agar AI tidak menganggap setiap tautan yang pernah dicantumkan otomatis telah disetujui sebagai sumber agama.
+Enam situs masyaikh pada tabel berikut disetujui pengguna pada 26 November 2026 untuk dimasukkan ke daftar sumber yang diizinkan. Persetujuan situs tidak berarti setiap unggahan, kutipan, atau atribusi di dalamnya otomatis benar; periksa penulis, kitab/rekaman asal, konteks, dan rujukan primer. Situs lain yang pernah ditemukan dalam materi P’Nata tetapi belum disetujui tetap ditandai sebagai kandidat.
 
 | Nama | Alamat | Kegunaan yang tercatat | Status |
 |---|---|---|---|
-| Yayasan/kumpulan karya Syaikh Muhammad bin Shalih al-'Utsaimin | https://www.uthaymeen.com/ | Biografi dan karya Syaikh al-'Utsaimin; muncul pada bank bonus Jejak Para Ulama | Ditemukan dalam materi; perlu persetujuan eksplisit sebagai sumber yang diizinkan |
-| Situs Syaikh Shalih al-Fauzan | https://alfawzaan.com/about | Profil/karya Syaikh al-Fauzan; muncul pada bank bonus Jejak Para Ulama | Ditemukan dalam materi; perlu pemeriksaan alamat/domain dan persetujuan eksplisit |
+| Yayasan/kumpulan karya Syaikh Muhammad bin Shalih al-'Utsaimin | https://www.uthaymeen.com/ | Biografi dan karya Syaikh al-'Utsaimin; muncul pada bank bonus Jejak Para Ulama | DISETUJUI pengguna 26-11-2026 |
+| Situs Syaikh Shalih al-Fauzan | https://alfawzaan.com/ | Profil/karya Syaikh al-Fauzan; muncul pada bank bonus Jejak Para Ulama | DISETUJUI pengguna 26-11-2026; gunakan domain yang disetujui ini |
 | Situs Syaikh Abdul Muhsin al-'Abbad | https://al-abbaad.com/profile | Profil dan aktivitas pengajaran; muncul pada bank bonus Jejak Para Ulama | Ditemukan dalam materi; perlu persetujuan eksplisit sebagai sumber yang diizinkan |
-| Situs Syaikh Abdul Aziz bin Baz | https://binbaz.org.sa/ | Fatwa, kitab, pelajaran, dan rekaman | Kandidat situs masyaikh; belum disahkan dalam daftar izin |
-| Situs Syaikh Rabi' bin Hadi al-Madkhali | https://www.rabee.net/ | Karya dan penjelasan Syaikh Rabi' | Kandidat situs masyaikh; belum disahkan dalam daftar izin |
-| Situs karya Syaikh Muhammad Nashiruddin al-Albani | https://www.alalbany.net/ | Karya, penelitian hadis, dan fatwa yang dinisbatkan kepada Syaikh al-Albani | Kandidat situs masyaikh; belum disahkan dalam daftar izin |
-| Situs Syaikh Abdurrazzaq al-Badr | https://al-badr.net/ | Kajian, kitab, dan pelajaran | Kandidat situs masyaikh; belum disahkan dalam daftar izin |
+| Situs Syaikh Abdul Aziz bin Baz | https://binbaz.org.sa/ | Fatwa, kitab, pelajaran, dan rekaman | DISETUJUI pengguna 26-11-2026 |
+| Situs Syaikh Rabi' bin Hadi al-Madkhali | https://www.rabee.net/ | Karya dan penjelasan Syaikh Rabi' | DISETUJUI pengguna 26-11-2026 |
+| Situs karya Syaikh Muhammad Nashiruddin al-Albani | https://www.alalbany.net/ | Karya, penelitian hadis, dan fatwa yang dinisbatkan kepada Syaikh al-Albani | DISETUJUI pengguna 26-11-2026 |
+| Situs Syaikh Abdurrazzaq al-Badr | https://al-badr.net/ | Kajian, kitab, dan pelajaran | DISETUJUI pengguna 26-11-2026 |
 
 ## Inventaris sumber yang telah digunakan dalam bank soal Petualangan Cinta Rasul
 
